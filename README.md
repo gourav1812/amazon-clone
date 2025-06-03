@@ -15,10 +15,10 @@ This is a **front-end clone of the Amazon homepage**, built using only HTML and 
 Simply open `index.html` in your browser.
 
 ## Screenshots
+
 ![Home Page Screenshot](assets/Screenshot%202025-06-04%20002815.png)
 
-(assets/Screenshot%202025-06-04%20002830.png)
+![Another Screenshot](assets/Screenshot%202025-06-04%20002830.png)
 
 ## Author
-Your Name - Gourav Kejriwal
-(https://github.com/gourav1812)
+Gourav Kejriwal - [GitHub Profile](https://github.com/gourav1812)
